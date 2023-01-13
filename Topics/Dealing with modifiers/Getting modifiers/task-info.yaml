@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: any methods, fields and constructors of user classes only
+- text: only public methods, fields and constructors of any class
+- text: only public methods, fields and constructors of user classes
+- text: any methods, fields and constructors of any class
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8107#comment
+status: Solved
+record: -1

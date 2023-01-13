@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: '''Hello!'' will be printed to standard error stream'
+- text: The code will not compile
+- text: IllegalMethodAccessException
+- text: '''Hello!'' will be printed to standard output stream'
+- text: NullPointerException
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2893#comment
+status: Solved
+record: -1

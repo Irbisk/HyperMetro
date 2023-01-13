@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HyperMetro/task" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/test-results" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Getting modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/List public fields" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Storing modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Check for null" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Class type parameters" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/How to declare a generic method" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Invert an array" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Print content" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/The first element" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/The usage of parameters" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Field value" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Invoking a method" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Reflection invocation" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/The result of the code execution" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/What does a reference type store" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Class object test" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
